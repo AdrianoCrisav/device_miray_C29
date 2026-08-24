@@ -13,7 +13,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/miray/C29/device.mk)
 
 PRODUCT_DEVICE := C29
-PRODUCT_NAME := omni_C29
+PRODUCT_NAME := twrp_C29
 PRODUCT_BRAND := CWOWDEFU
 PRODUCT_MODEL := C29_C_EEA
 PRODUCT_MANUFACTURER := miray
